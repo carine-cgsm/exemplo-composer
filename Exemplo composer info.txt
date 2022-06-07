@@ -1,0 +1,31 @@
+Informações:
+
+* Package name (<vendor>/<name>): carinegomes/exemplocomposer
+Nome do fornecedor // Nome do projeto
+Não se repete
+
+* Description []: Exemplo composer
+Descrição do projeto
+
+* Author [n to skip]: Carine Gomes <carine.gsm@gmail.com>
+
+* Minimum Stability []: dev
+– stable (most stable)
+– RC
+– beta
+– alpha
+– dev (least stable)
+
+* Package Type (e.g. library, project, metapackage, composer-plugin) []: project
+
+* License []: MIT
+
+-----------------------------------------------------
+
+Instalando packages de composer
+
+Na pasta exemplocomposer
+
+composer require cocur/slugify
+
+pasta vender - pasta criada

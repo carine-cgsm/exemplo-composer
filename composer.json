@@ -1,0 +1,16 @@
+{
+    "name": "carinegomes/exemplocomposer",
+    "description": "Exemplo composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carine Gomes",
+            "email": "carine.gsm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "dev-main"
+    }
+}
