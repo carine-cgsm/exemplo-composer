@@ -11,4 +11,7 @@ echo "</br>";
 
 echo $slugify->slugify('Hello World!', '_'); // hello_world
 
+echo "</br>";
+echo "Carine Gomes";
+
 ?>
